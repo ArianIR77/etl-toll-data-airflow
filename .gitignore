@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Airflow runtime files
+logs/
+airflow_home/
+
+# Environment / credential files
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.sublime*
+*.sw?
+.DS_Store
+
+# Mac / Linux temp files
+*~
