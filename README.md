@@ -34,7 +34,8 @@ In this assignment, you will develop an Apache Airflow DAG that will:
 
 ## 📸 Screenshots
 ![DAG Graph](images/dag_runs.jpg)
-![DAG Run](images/dag_run.png)
+![DAG Run](images/dag_tasks.jpg)
+![DAG Run](images/ssubmit_dag.jpg)
 
 
 ## 🚀 How to Run
