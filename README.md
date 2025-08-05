@@ -2,6 +2,24 @@
 
 This project is a hands-on lab assignment for building an ETL pipeline using Apache Airflow's BashOperator.
 
+
+## 📘 Project Scenario
+
+You are a data engineer at a data analytics consulting company. You have been assigned a project to decongest the national highways by analyzing road traffic data from various toll plazas. Each highway is operated by a different toll operator with a different IT setup, resulting in multiple file formats. Your job is to collect the data available in different formats and consolidate it into a single file.
+
+---
+
+## 🎯 Project Objectives
+
+In this assignment, you will develop an Apache Airflow DAG that will:
+
+- Extract data from a CSV file
+- Extract data from a TSV file
+- Extract data from a fixed-width text file
+- Transform the extracted data
+- Load the transformed data into a staging area
+
+
 ## 🛠 Technologies Used
 - Apache Airflow
 - Bash
