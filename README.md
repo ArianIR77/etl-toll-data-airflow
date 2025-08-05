@@ -33,9 +33,10 @@ In this assignment, you will develop an Apache Airflow DAG that will:
 - Schedule and run DAG using Airflow
 
 ## 📸 Screenshots
-![DAG Graph](images/dag_runs.jpg)
-![DAG Run](images/dag_tasks.jpg)
-![DAG Run](images/ssubmit_dag.jpg)
+![DAG submit](images/submit_dag.jpg)
+![DAG Graph](images/dag_tasks.jpg)
+![DAG Run](images/dag_runs.jpg)
+
 
 
 ## 🚀 How to Run
