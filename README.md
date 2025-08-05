@@ -32,6 +32,10 @@ In this assignment, you will develop an Apache Airflow DAG that will:
 - Load into a staging area
 - Schedule and run DAG using Airflow
 
+## 📸 Screenshots
+![DAG Graph](images/dag_runs.jpg)
+![DAG Run](images/dag_run.png)
+
 
 ## 🚀 How to Run
 - Copy `ETL_toll_data.py` to your Airflow DAGs folder
